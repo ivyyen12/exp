@@ -1,0 +1,9 @@
+flask
+requests
+django
+pandas
+numpy
+scikit-learn
+matplotlib
+pillow
+beautifulsoup4
